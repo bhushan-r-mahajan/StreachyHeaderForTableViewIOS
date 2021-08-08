@@ -13,6 +13,7 @@
 		D4AEEC3326B7F20800EA6FBF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4AEEC3126B7F20800EA6FBF /* Main.storyboard */; };
 		D4AEEC3526B7F20A00EA6FBF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D4AEEC3426B7F20A00EA6FBF /* Assets.xcassets */; };
 		D4AEEC3826B7F20A00EA6FBF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4AEEC3626B7F20A00EA6FBF /* LaunchScreen.storyboard */; };
+		D4AEEC4026B7F59100EA6FBF /* StreachingHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4AEEC3F26B7F59100EA6FBF /* StreachingHeader.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D4AEEC3426B7F20A00EA6FBF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D4AEEC3726B7F20A00EA6FBF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D4AEEC3926B7F20A00EA6FBF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D4AEEC3F26B7F59100EA6FBF /* StreachingHeader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StreachingHeader.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				D4AEEC2B26B7F20800EA6FBF /* AppDelegate.swift */,
 				D4AEEC2D26B7F20800EA6FBF /* SceneDelegate.swift */,
 				D4AEEC2F26B7F20800EA6FBF /* ViewController.swift */,
+				D4AEEC3F26B7F59100EA6FBF /* StreachingHeader.swift */,
 				D4AEEC3126B7F20800EA6FBF /* Main.storyboard */,
 				D4AEEC3426B7F20A00EA6FBF /* Assets.xcassets */,
 				D4AEEC3626B7F20A00EA6FBF /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				D4AEEC3026B7F20800EA6FBF /* ViewController.swift in Sources */,
 				D4AEEC2C26B7F20800EA6FBF /* AppDelegate.swift in Sources */,
+				D4AEEC4026B7F59100EA6FBF /* StreachingHeader.swift in Sources */,
 				D4AEEC2E26B7F20800EA6FBF /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
